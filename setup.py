@@ -35,7 +35,7 @@ with open('requirements.txt') as f:
 
 setup(
     name='wechatpy.async.asyncio',
-    version='1.0.1',
+    version='1.0.2',
     author='messense',
     author_email='messense@icloud.com',
     url='https://github.com/messense/wechatpy',
